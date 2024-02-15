@@ -5,7 +5,6 @@ Hand Gesture-Controlled Media Player with OpenCV and PyAutoGUI 🎵
 
 <p>Elevate your media playback experience with the Gesture-Controlled Media Player! This cutting-edge project combines the magic of computer vision with automation, allowing you to control your media player effortlessly using simple hand gestures.</p>
 
-<alt="Gesture-Controlled Media Player">
 
 <h2>Features</h2>
 
