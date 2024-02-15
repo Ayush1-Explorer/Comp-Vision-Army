@@ -24,7 +24,7 @@ Hand Gesture-Controlled Media Player with OpenCV and PyAutoGUI 🎵
 
 <ol>
   <li>Clone this repository to your local machine.</li>
-  <li>Install the required dependencies using <code>pip install -r requirements.txt</code>.</li>
+  <li>Install the required dependencies using <code>pip install requirements</code>.</li>
   <li>Run the <code>gesture_controlled_media_player.py</code> script.</li>
 </ol>
 
